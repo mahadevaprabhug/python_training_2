@@ -1,0 +1,40 @@
+####################
+# github procedure
+####################
+
+# create github account
+# ------------
+# https://www.github.com
+####################
+
+# Steps
+# ------------
+# Step-1:
+#   - Install git software (In our laptop)
+#       https://git-scm.com/downloads
+#
+#   - create local git repository (In our laptop)
+#           -- open terminal/cmd
+#           -- cd to python_training folder
+#           -- git init
+#           NOW python_training folder is git repository
+#
+#   - add all files to local git repository (In our laptop)
+#       -- git add -A OR git add file_name OR git add --all OR git add folder_name
+#
+#   - save/commit all files to local git repository (In our laptop)
+#
+# Step-2:
+#   - create github account in https://www.github.com
+#   - create new repository in github
+#
+# Step-3:
+#   - link "local git repository" with "remote github repository"
+#   - push all the code from "local git repository" to "remote github repository"
+#
+# Step-4:
+#   - create another git repository in laptop
+#   - link "local git repository" with "remote github repository"
+#   - pull code from "remote github repository" to "local git repository"
+#
+####################

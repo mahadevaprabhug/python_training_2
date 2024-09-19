@@ -1,0 +1,15 @@
+INFO : 2024-09-19 09:58:21,068 : 19_program_on_logging.py : This is info
+DEBUG : 2024-09-19 09:58:21,068 : 19_program_on_logging.py : This is debug
+WARNING : 2024-09-19 09:58:21,068 : 19_program_on_logging.py : This is warning
+ERROR : 2024-09-19 09:58:21,068 : 19_program_on_logging.py : This is error
+CRITICAL : 2024-09-19 09:58:21,068 : 19_program_on_logging.py : This is critical
+INFO : 2024-09-19 09:58:21,068 : 19_program_on_logging.py : Opening file
+INFO : 2024-09-19 09:58:21,075 : 19_program_on_logging.py : Opening file completed
+INFO : 2024-09-19 09:58:21,075 : 19_program_on_logging.py : importing json library
+INFO : 2024-09-19 09:58:21,090 : 19_program_on_logging.py : importing json library completed
+INFO : 2024-09-19 09:58:21,090 : 19_program_on_logging.py : Reading json file content
+INFO : 2024-09-19 09:58:21,090 : 19_program_on_logging.py : Reading json file content completed
+INFO : 2024-09-19 09:58:21,090 : 19_program_on_logging.py : Closing file handle
+INFO : 2024-09-19 09:58:21,090 : 19_program_on_logging.py : Closing file handle completed
+INFO : 2024-09-19 09:58:21,090 : 19_program_on_logging.py : Writing log_report_4.txt started
+INFO : 2024-09-19 09:58:21,090 : 19_program_on_logging.py : Writing log_report_4.txt completed
